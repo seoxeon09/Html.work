@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(176, 202, 184);
+  font-family: 'HakgyoansimWoojuR';
+}
+
+h1 {
+  text-align: center;
+  font-family: ;
+}
+
+#a {
+  color: tomato;
+}
+
+h3 {
+  position: relative;
+  top: 40px;
+  bottom: 30px;
+  left: 950px;
+}
+@font-face {
+  font-family: 'HakgyoansimWoojuR';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
