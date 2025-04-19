@@ -1,0 +1,27 @@
+h1 {
+  color: rgb(217, 147, 157);
+}
+h3 {
+  color: cadetblue;
+}
+body {
+  background-color: rgb(238, 224, 234);
+  text-align: center;
+  font-family: 'HakgyoansimWoojuR', 'Poppins', sans-serif;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+#a {
+  color: rgb(84, 92, 164);
+}
+@font-face {
+  font-family: 'HakgyoansimWoojuR';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
