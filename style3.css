@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(253, 248, 219);
+  text-align: center;
+  font-family: 'HakgyoansimDunggeunmisoTTF-B, sans-serif';
+  font-family: 'Ownglyph_ParkDaHyun', 'Poppins', sans-serif;
+}
+
+li {
+  list-style: square; /* 작은 네모 표시!! */
+  list-style-position: inside; /*네모를 가운데로 정렬함!!*/
+}
+
+@font-face {
+  font-family: 'Ownglyph_ParkDaHyun';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2411-3@1.0/Ownglyph_ParkDaHyun.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: x-large;
+}
